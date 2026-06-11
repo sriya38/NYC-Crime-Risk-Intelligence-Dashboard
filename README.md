@@ -1,4 +1,4 @@
-# NYC-Crime-Risk-Intelligence-Dashboard
+#NYC-Crime-Risk-Intelligence-Dashboard
 An end-to-end data analysis project examining 84,742 NYPD complaint records to uncover crime patterns, severity distributions, and behavioral signatures across New York City's five boroughs.
  #Project Objective
 To go beyond surface-level crime statistics and apply analyst-level thinking — using weighted severity scoring, window functions, and cross-dimensional analysis — to extract actionable insights from NYC crime data.
