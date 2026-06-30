@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes 84,742+ NYPD crime complaint records to uncover crime patterns, high-risk boroughs, victim demographics, crime hotspots, and temporal trends across New York City. The project combines Python for data cleaning, SQL for business analysis, and Tableau for interactive dashboard development.
+This project analyzes 50k+ NYPD crime complaint records to uncover crime patterns, high-risk boroughs, victim demographics, crime hotspots, and temporal trends across New York City. The project combines Python for data cleaning, SQL for business analysis, and Tableau for interactive dashboard development.
 
 ## Objective
 
